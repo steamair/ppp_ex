@@ -41,7 +41,7 @@ Link* insert(Link* p, Link* n)        //insert n before p(incomplete)
     p->prev=n;      // n becomes p's predecessor
     return n;
 }
-
+x
 // to handle the case where n,p or p->prev is nullptr
 
 Link* insert(Link* p, Link* n)  //insert n before p, return n

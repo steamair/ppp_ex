@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../bj_c++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "cpp",
+			"variant": "cpp",
+			"algorithm": "cpp",
+			"fstream": "cpp",
+			"__bit_reference": "cpp",
+			"__node_handle": "cpp",
+			"atomic": "cpp",
+			"bitset": "cpp",
+			"cstddef": "cpp",
+			"deque": "cpp",
+			"__memory": "cpp",
+			"filesystem": "cpp",
+			"limits": "cpp",
+			"locale": "cpp",
+			"optional": "cpp",
+			"random": "cpp",
+			"ratio": "cpp",
+			"regex": "cpp",
+			"system_error": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"vector": "cpp",
+			"__functional_base": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp"
+		}
+	}
+}
